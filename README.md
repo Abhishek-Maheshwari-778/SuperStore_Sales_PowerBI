@@ -61,9 +61,9 @@ The objective of this project is to **help businesses make strategic decisions**
 
 ---
 
-## 🎥 Special Thanks  
-
-
+## 🎥 Special Thanks 
+📺 **YouTube Video Reference:** [Power BI Dashboard Tutorial](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=566s)
+ 👤 **From_Where_I_Learned:** [Rishabh Mishra](https://www.linkedin.com/in/rishabhnmishra)
 ---
 
 ## 📢 Let's Connect!  
